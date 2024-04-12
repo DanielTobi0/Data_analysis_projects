@@ -1,0 +1,716 @@
+Employee Name,Building,Department,Birth Date,Hire Date,Years,Compensation,Job Rating,Benefits
+"Buchanan, Dennis",WEST,ADC,30759,41069,9,69350,5,DMR
+"Perez, William",WEST,ADC,26832,38823,15,58810,1,——R
+"Potter, Dawn",WATSON,ADC,34114,42099,6,96140,2,D—R
+"Estes, Mary",WEST,ADC,23760,35942,23,61770,4,———
+"Jefferson, Elaine",TAFT,ADC,26139,36498,21,47100,3,———
+"Bass, Justin",MAIN,Admin Training,27051,36728,20,87890,5,D——
+"O'Neal, William",WEST,Admin Training,26254,39429,13,101230,3,D—R
+"Burnett, Kevin",NORTH,Admin Training,24466,36483,21,105280,5,—MR
+"Chan, Todd",NORTH,Admin Training,29168,38116,17,80300,1,D—R
+"Henry, Craig",SOUTH,Admin Training,26474,38394,16,112600,2,D——
+"Cortez, Jack",TAFT,Admin Training,26947,38795,15,95160,5,———
+"Graham, David",NORTH,Admin Training,30220,38912,15,99200,1,DMR
+"Weeks, Troy",WATSON,Admin Training,28938,39416,13,98790,4,——R
+"Navarro, Marc",TAFT,Admin Training,32280,40056,11,40630,4,——R
+"May, Steve",MAIN,Admin Training,32429,40794,9,65140,4,——R
+"Lamb, John",WATSON,Admin Training,31452,41721,7,49720,3,——R
+"Thompson, John",WEST,Admin Training,28968,42356,5,76940,5,D—R
+"Hoover, Evangeline",MAIN,Admin Training,27688,36126,22,40190,1,——R
+"Hoover, Evangeline",MAIN,Admin Training,27688,36126,22,40190,1,——R
+"Butler, Roy",TAFT,Admin Training,28844,38869,15,20120,1,DM—
+"Blair, Sperry",MAIN,Admin Training,27314,40434,10,23410,3,———
+"Hess, Brian",SOUTH,Admin Training,23433,36134,22,38370,3,—M—
+"Olson, Melanie",WEST,Admin Training,33905,42778,4,14040,4,D——
+"Giles, Kathleen",WEST,Audit Services,25834,36203,22,,2,———
+"Nicholson, Lee",NORTH,Audit Services,24786,36953,20,96940,1,—M—
+"Watkins, Gary",MAIN,Audit Services,29486,38111,17,65160,2,D—R
+"Riley, David",NORTH,Audit Services,30182,38866,15,63160,1,D—R
+"Banks, Ryan",WEST,Audit Services,29502,39271,14,74500,1,———
+"Huffman, Ignacio",WEST,Audit Services,29907,39545,13,44400,3,DM—
+"Collins, Michael",TAFT,Audit Services,29795,40703,10,40060,1,———
+"Mosley, Michael",WEST,Audit Services,33150,42758,4,67560,3,DMR
+"Espinoza, Derrell",WEST,Audit Services,29233,38216,16,14550,1,——R
+"Ramirez, Keith",MAIN,Audit Services,27032,38326,16,26440,4,D—R
+"McConnell, Justin",SOUTH,Compliance,29555,38047,17,76730,2,DMR
+"Johnston, Daniel",NORTH,Compliance,24735,36365,21,61010,3,DM—
+"Love, Danny",NORTH,Compliance,33388,42069,6,60850,3,D—R
+"Holmes, Tito",MAIN,Compliance,30742,42804,4,37860,1,DMR
+"English, David",MAIN,Engineering/Maintenance,26672,35880,23,56680,1,—M—
+"English, David",MAIN,Engineering/Maintenance,26672,35880,23,56680,1,—M—
+"Guerrero, Laura",TAFT,Engineering/Maintenance,24349,36330,22,85090,1,——R
+"Byrd, Asa",WEST,Engineering/Maintenance,24359,36633,21,109590,4,D——
+"Horn, George",NORTH,Engineering/Maintenance,25241,37303,19,61600,3,———
+"Beasley, Timothy",SOUTH,Engineering/Maintenance,24494,37771,18,84990,2,—M—
+"Walsh, Matthew",WEST,Engineering/Maintenance,24666,37812,18,66730,2,—MR
+"Clarke, Dennis",NORTH,Engineering/Maintenance,28160,37907,17,117890,5,DMR
+"Sloan, Cindy",MAIN,Engineering/Maintenance,28419,38157,17,98660,5,——R
+"Haynes, Ernest",NORTH,Engineering/Maintenance,27229,38221,16,111140,2,DM—
+"Cummings, Jose",MAIN,Engineering/Maintenance,25905,38500,16,112830,5,D—R
+"Stevenson, Michael",MAIN,Engineering/Maintenance,26543,38554,15,83610,3,DM—
+"Marshall, Anita",WATSON,Engineering/Maintenance,30657,38592,15,116160,5,DM—
+"Houston, Mark",SOUTH,Engineering/Maintenance,28478,38690,15,40050,3,—MR
+"Hughes, Kevin",WEST,Engineering/Maintenance,29304,38739,15,101550,1,—MR
+"Garrison, Christopher",WEST,Engineering/Maintenance,30329,39122,14,31100,3,—MR
+"Jones, John",WEST,Engineering/Maintenance,30223,41622,7,109650,3,D—R
+"Guerra, Karen",WEST,Engineering/Maintenance,30136,41692,7,82040,4,—MR
+"Spears, Melanie",SOUTH,Engineering/Maintenance,33503,42574,4,34040,3,—M—
+"Hamilton, Theo",NORTH,Engineering/Maintenance,32046,42611,4,104890,5,——R
+"McDowell, Scott",WEST,Engineering/Maintenance,26163,36000,22,65750,2,—MR
+"Stanley, Eric",MAIN,Engineering/Maintenance,24301,36179,22,113410,4,D—R
+"Dickerson, Lincoln",MAIN,Engineering/Maintenance,28210,36227,22,81050,5,—M—
+"Smith, Koleen",NORTH,Engineering/Maintenance,27245,36398,21,42020,3,——R
+"Kim, Deborah",WEST,Engineering/Maintenance,23952,36438,21,93920,2,—MR
+"Park, Timothy",NORTH,Engineering/Maintenance,27278,36547,21,94600,4,——R
+"Hodges, Lisa",NORTH,Engineering/Maintenance,28173,37126,19,98560,5,———
+"Hernandez, Glenn",MAIN,Engineering/Maintenance,28553,37484,18,42120,5,———
+"Green, Kim",WATSON,Engineering/Maintenance,26730,37648,18,89610,5,—MR
+"Wilkins, Jesse",MAIN,Engineering/Maintenance,25861,37738,18,102100,5,DMR
+"Armstrong, David",TAFT,Engineering/Maintenance,29680,37849,17,108400,5,DMR
+"Hale, Deon",NORTH,Engineering/Maintenance,26538,37859,17,102410,3,D——
+"Taylor, Hector",WEST,Engineering/Maintenance,27055,38319,16,54010,4,—MR
+"Estrada, Joan",NORTH,Engineering/Maintenance,28335,38481,16,80560,3,DM—
+"Estrada, Joan",NORTH,Engineering/Maintenance,28335,38481,16,80560,3,DM—
+"Lucas, John",WEST,Engineering/Maintenance,25541,38617,15,45910,4,———
+"Baker, Barney",NORTH,Engineering/Maintenance,31275,39158,14,42370,1,——R
+"West, Jeffrey",NORTH,Engineering/Maintenance,28812,39660,12,35880,4,—M—
+"Wyatt, Kelly",NORTH,Engineering/Maintenance,28813,39670,12,37820,4,DM—
+"Middleton, Jen",MAIN,Engineering/Maintenance,27367,39828,12,,2,———
+"Osborne, Bill",MAIN,Engineering/Maintenance,26922,39893,12,94970,5,D——
+"Foster, Blane",NORTH,Engineering/Maintenance,27145,40000,12,113360,3,DM—
+"Hicks, Monica",NORTH,Engineering/Maintenance,27515,40437,10,115210,4,D——
+"Everett, Dan",WEST,Engineering/Maintenance,30850,40612,10,88290,5,——R
+"Porter, Rachel",MAIN,Engineering/Maintenance,34314,42737,4,54770,5,D—R
+"Payne, Vicky",MAIN,Engineering/Maintenance,30399,42926,4,51120,1,—MR
+"Figueroa, Leonard",WEST,Engineering/Maintenance,31927,42944,3,30730,1,D—R
+"Weber, Larry",MAIN,Engineering/Maintenance,29789,43153,3,102720,3,DMR
+"Bartlett, Julia",TAFT,Engineering/Maintenance,30164,43227,3,98620,2,——R
+"Rhodes, Brenda",NORTH,Engineering/Maintenance,30739,43248,3,90960,5,—MR
+"Alexander, Charles",NORTH,Engineering/Maintenance,22979,36124,22,18220,3,D—R
+"Herman, Henrietta",MAIN,Engineering/Maintenance,28406,36818,20,35490,3,———
+"Peterson, Shaun",NORTH,Engineering/Maintenance,29175,37200,19,51370,4,—M—
+"McGuire, Rebecca",WEST,Engineering/Maintenance,24811,38169,17,63910,4,—M—
+"House, Paul",MAIN,Engineering/Maintenance,28098,38494,16,30860,4,—M—
+"Robbins, Suzanne",WEST,Engineering/Maintenance,28811,38711,15,24420,5,—M—
+"Patterson, Robert",WEST,Engineering/Maintenance,28025,39139,14,43630,5,——R
+"George, Jessica",NORTH,Engineering/Maintenance,30681,39254,14,39710,3,D—R
+"Ramsey, Nathaniel",NORTH,Engineering/Operations,30603,41407,8,104100,2,DM—
+"Pennington, Gary",MAIN,Engineering/Operations,30510,42181,6,47020,4,D——
+"Lyons, Brian",NORTH,Engineering/Operations,31368,42905,4,78340,5,D—R
+"Sheppard, Curtis",NORTH,Engineering/Operations,31225,40535,10,114220,1,DMR
+"Rush, Lateef",MAIN,Engineering/Operations,29006,41049,9,48350,4,DMR
+"Rush, Lateef",MAIN,Engineering/Operations,29006,41049,9,48350,4,DMR
+"Morgan, Patricia",SOUTH,Engineering/Operations,32668,42040,6,93880,4,—MR
+"Duncan, George",NORTH,Engineering/Operations,30822,42575,4,100900,3,DMR
+"Wall, John",NORTH,Environmental Health/Safety,26776,35723,23,91160,1,D——
+"Kelly, Icelita",MAIN,Environmental Health/Safety,28614,38101,17,30250,3,——R
+"Franklin, Alicia",WATSON,Environmental Health/Safety,28136,38166,17,34990,1,—MR
+"Morton, Brian",SOUTH,Environmental Health/Safety,26218,38834,15,90160,5,DM—
+"Morales, Linda",MAIN,Environmental Health/Safety,25648,38901,15,65820,2,———
+"James, Lynn",NORTH,Environmental Health/Safety,32285,41799,7,,5,———
+"Sims, Don",MAIN,Environmental Health/Safety,31040,43168,3,37790,1,D——
+"Ballard, Martin",NORTH,Environmental Health/Safety,34216,43224,3,13890,4,——R
+"Contreras, Dean",MAIN,Environmental Health/Safety,34856,42965,3,36280,4,D—R
+"Wright, Brad",TAFT,Executive Education,25945,35897,23,105670,2,———
+"Bowman, Michael",WEST,Executive Education,26919,37802,18,46540,2,—M—
+"Chang, Gabriel",MAIN,Executive Education,26323,38389,16,100350,1,DMR
+"Skinner, Jason",MAIN,Executive Education,29999,38611,15,85100,3,D—R
+"Glass, John",TAFT,Executive Education,26921,38828,15,43480,5,———
+"Clark, William",WATSON,Executive Education,27716,38994,14,114800,4,—M—
+"Watson, Christian",SOUTH,Executive Education,28665,40319,11,96870,2,———
+"Luna, Rodney",WEST,Executive Education,23479,36099,22,49660,5,——R
+"Dennis, Paul",MAIN,Executive Education,26239,36265,22,108900,5,—MR
+"Randolph, Kristin",NORTH,Executive Education,26470,36475,21,109240,4,DM—
+"Robinson, John",WATSON,Executive Education,30344,38139,17,105760,4,—M—
+"Owen, Robert",MAIN,Executive Education,25281,38729,15,66150,1,D—R
+"Leonard, Paul",NORTH,Executive Education,27698,38921,14,80960,1,D——
+"Frazier, Chris",MAIN,Executive Education,29977,39765,12,80720,4,DM—
+"Burgess, Cherie",WATSON,Executive Education,27721,40264,11,52460,1,D—R
+"Gilbert, Shannon",NORTH,Executive Education,28073,36646,21,24630,4,D—R
+"Henson, Debra",MAIN,Executive Education,29832,39009,14,56640,1,DM—
+"Mason, Suzanne",NORTH,Executive Education,25176,35835,23,19420,5,DMR
+"Moody, Matthew",NORTH,Executive Education,26351,38325,16,16730,2,———
+"Gentry, John",NORTH,International Clinical Safety,28701,41179,8,79280,2,DM—
+"Solomon, Michael",MAIN,International Clinical Safety,26933,37981,17,88100,2,———
+"Caldwell, Pete",WEST,International Clinical Safety,31449,39221,14,99080,5,DMR
+"Murphy, Jeff",NORTH,International Clinical Safety,32328,41239,8,62500,5,—MR
+"White, Daniel",WEST,International Clinical Safety,32073,43052,3,104480,2,DMR
+"Diaz, David",NORTH,Logistics,25794,36076,22,29460,2,———
+"Eaton, Cris",MAIN,Logistics,24766,36601,21,107010,5,D——
+"Cline, Rebecca",WEST,Logistics,24015,36813,20,84600,2,—MR
+"Sanchez, Greg",WEST,Logistics,29524,37413,19,59450,5,D——
+"Kent, Angus",MAIN,Logistics,27734,37423,19,34800,4,DMR
+"Reed, Larry",NORTH,Logistics,29169,37564,18,53540,5,D——
+"Reed, Larry",NORTH,Logistics,29169,37564,18,53540,5,D——
+"McLaughlin, Edward",MAIN,Logistics,27059,38591,15,33160,5,D——
+"Harris, Brian",NORTH,Logistics,32411,40293,11,42200,5,DM—
+"Gates, Anne",TAFT,Logistics,30111,42706,4,75130,4,—MR
+"Callahan, Marilyn",MAIN,Logistics,30420,42888,4,60500,4,DM—
+"Meyers, David",WATSON,Logistics,30201,42911,4,60340,3,—MR
+"Gonzalez, David",SOUTH,Logistics,24387,35731,23,42720,4,DM—
+"Maldonado, Robert",MAIN,Logistics,26346,35769,23,46680,5,—M—
+"Sherman, Karin",NORTH,Logistics,29628,37905,17,84190,5,—M—
+"Hardin, Gregory",NORTH,Logistics,27107,38153,17,49830,5,—M—
+"Wiggins, Frank",MAIN,Logistics,29296,38257,16,75070,1,D—R
+"Shepherd, Annie",TAFT,Logistics,30796,38641,15,93730,5,—MR
+"King, Taslim",TAFT,Logistics,26920,38734,15,108770,2,—MR
+"Rogers, Colleen",SOUTH,Logistics,30372,39066,14,,5,———
+"McIntosh, Jeremy",WEST,Logistics,31002,39295,13,94220,2,——R
+"Campos, Richard",MAIN,Logistics,29052,39940,12,56070,3,——R
+"Ortiz, Cynthia",NORTH,Logistics,29176,40787,9,86540,1,DM—
+"Wiley, Gustavo",NORTH,Logistics,31510,41405,8,29580,4,DMR
+"McGee, Carol",MAIN,Logistics,30375,43051,3,43080,4,D—R
+"Glenn, Christopher",NORTH,Logistics,30564,43122,3,56260,3,——R
+"Young, Benjamin",WEST,Logistics,24158,36361,21,45030,4,———
+"Herrera, Shawn",NORTH,Logistics,29026,37407,19,19810,4,—M—
+"Montoya, Lisa",NORTH,Logistics,25357,37722,18,28010,3,———
+"Conner, Mark",NORTH,Logistics,30039,37838,17,43340,2,D—R
+"Maynard, Susan",MAIN,Logistics,29038,42420,5,52160,5,D—R
+"Keller, Jason",SOUTH,Logistics,25624,38915,15,,4,———
+"Manning, John",MAIN,Logistics,33320,42545,5,20780,3,—MR
+"Bowers, Tammy",SOUTH,Major Mfg Projects,25822,39325,13,91620,4,D—R
+"Weiss, Marisa",TAFT,Major Mfg Projects,30372,42915,4,93970,4,—M—
+"Soto, Christopher",MAIN,Major Mfg Projects,26347,36037,22,117660,1,———
+"Singleton, David",SOUTH,Major Mfg Projects,31904,39695,12,59600,1,—MR
+"Mendez, Max",MAIN,Major Mfg Projects,27683,37053,20,118510,4,———
+"Wolfe, Keith",NORTH,Major Mfg Projects,30375,40157,11,68380,1,DM—
+"Becker, Gretchen",MAIN,Major Mfg Projects,28180,39171,14,81660,5,—M—
+"Ball, Kirk",NORTH,Major Mfg Projects,29593,40598,10,112370,5,D—R
+"Swanson, Vicki",NORTH,Manufacturing,23427,36426,21,42490,3,DM—
+"Carey, Andrea",MAIN,Manufacturing,23147,36471,21,65380,2,—MR
+"Parker, Carl",MAIN,Manufacturing,26522,36631,21,97670,3,D—R
+"Herring, Joanna",TAFT,Manufacturing,26568,36683,21,85050,4,DMR
+"Grant, Leonard",WEST,Manufacturing,27424,36705,21,104570,4,DMR
+"Bates, Verna",MAIN,Manufacturing,24645,36801,20,60420,5,—M—
+"Snow, Desiree",SOUTH,Manufacturing,26155,36917,20,46810,3,—M—
+"McDaniel, Tamara",MAIN,Manufacturing,25661,37077,20,83570,3,DMR
+"Logan, Karen",WATSON,Manufacturing,27362,37323,19,106510,3,—MR
+"Gonzales, David",NORTH,Manufacturing,24760,37837,17,32220,3,D—R
+"Moses, Mark",MAIN,Manufacturing,28524,38001,17,69880,4,D—R
+"Flynn, Melissa",WATSON,Manufacturing,30038,38012,17,37300,5,DM—
+"Flynn, Melissa",WATSON,Manufacturing,30038,38012,17,37300,5,DM—
+"Combs, Rick",MAIN,Manufacturing,29702,38031,17,87130,2,D—R
+"Reeves, Greg",SOUTH,Manufacturing,27666,39252,14,55230,2,D——
+"Ellison, Melissa",MAIN,Manufacturing,27646,39289,13,76030,3,D—R
+"Powell, Juli",SOUTH,Manufacturing,28033,39356,13,76240,3,DM—
+"Brown, Donald",NORTH,Manufacturing,31521,39370,13,118170,5,—MR
+"Vega, Alexandra",NORTH,Manufacturing,27454,39381,13,59950,1,DM—
+"Simpson, Jimmy",NORTH,Manufacturing,27465,39629,13,90430,5,———
+"Whitehead, Carolyn",TAFT,Manufacturing,26573,39978,12,69660,2,DM—
+"Hutchinson, Robin",NORTH,Manufacturing,30858,40286,11,81010,3,——R
+"Sharp, Janine",WATSON,Manufacturing,28688,40472,10,99550,1,DMR
+"Woodward, Timothy",WATSON,Manufacturing,31407,40551,10,84770,5,DMR
+"Vance, Cheryl",NORTH,Manufacturing,30805,40696,10,75780,2,DMR
+"Koch, Danielle",NORTH,Manufacturing,27273,40725,10,51880,2,DMR
+"Branch, Brady",WEST,Manufacturing,30549,40941,9,94820,3,—M—
+"Chandler, Diane",NORTH,Manufacturing,29752,40973,9,50130,4,D—R
+"Hopkins, Lisa",NORTH,Manufacturing,32797,41159,8,54040,2,D——
+"Bowen, Kes",WEST,Manufacturing,30785,41189,8,52380,1,D——
+"Browning, Kathleen",SOUTH,Manufacturing,32726,41526,7,78320,4,—M—
+"Sellers, William",TAFT,Manufacturing,32031,41564,7,106040,4,———
+"Tanner, Timothy",NORTH,Manufacturing,29671,41841,6,84280,2,DMR
+"Roberson, Eileen",WEST,Manufacturing,32624,42190,6,82870,4,———
+"Garner, Terry",MAIN,Manufacturing,31021,42197,6,111100,2,DMR
+"Bush, Rena",WEST,Manufacturing,33077,42474,5,79250,5,——R
+"Wood, Larry",WEST,Manufacturing,32665,42482,5,103650,4,—M—
+"Roman, Teri",NORTH,Manufacturing,24302,36265,22,,5,———
+"Tran, Chad",MAIN,Manufacturing,28475,36283,22,69880,4,DM—
+"Vaughn, Harlon",MAIN,Manufacturing,27897,36300,22,79700,4,—M—
+"Nguyen, Dennis",WEST,Manufacturing,28036,36372,21,77760,1,D—R
+"Brady, Traci",MAIN,Manufacturing,26409,36373,21,34570,5,D——
+"Ware, David",MAIN,Manufacturing,23395,36645,21,60060,3,—MR
+"Serrano, Al",SOUTH,Manufacturing,27749,36720,21,30800,4,D——
+"Griffin, Debbi",MAIN,Manufacturing,26241,36803,20,108210,2,—M—
+"Jackson, Eric",MAIN,Manufacturing,25254,37056,20,32620,2,—M—
+"Floyd, Eric",TAFT,Manufacturing,25167,37135,19,106930,4,DMR
+"Davidson, Jaime",WEST,Manufacturing,29390,37193,19,45510,3,D—R
+"Wheeler, Meegan",TAFT,Manufacturing,27047,37437,19,32080,3,DM—
+"Stephens, Bonnie",NORTH,Manufacturing,24866,37533,18,83250,1,——R
+"Garrett, Christopher",NORTH,Manufacturing,25984,37623,18,88510,4,D——
+"Cannon, Jenny",WEST,Manufacturing,27281,37672,18,51400,2,DM—
+"Larson, David",NORTH,Manufacturing,29825,37676,18,96450,5,D——
+"Barber, Robbie",MAIN,Manufacturing,27267,37808,18,113860,3,——R
+"Greer, Brian",MAIN,Manufacturing,29956,37840,17,58440,2,D——
+"Ward, Williams",NORTH,Manufacturing,27920,37851,17,96950,3,—M—
+"Ingram, Matt",TAFT,Manufacturing,29618,37963,17,52170,5,——R
+"Melton, Scott",MAIN,Manufacturing,26401,38008,17,60030,4,D——
+"Morris, Richelle",WATSON,Manufacturing,26358,38013,17,78300,4,———
+"Montgomery, Christopher",WEST,Manufacturing,25958,38163,17,96550,5,D——
+"Miller, Jessica",MAIN,Manufacturing,27636,38172,17,105240,2,—MR
+"McCall, Keith",NORTH,Manufacturing,30004,38178,17,42750,2,D—R
+"Jimenez, Dominic",SOUTH,Manufacturing,26512,38181,17,59290,1,———
+"Ayala, Polly",MAIN,Manufacturing,29538,38241,16,79570,1,———
+"Russell, Mark",TAFT,Manufacturing,28927,38243,16,80720,2,—M—
+"Barron, Michael",MAIN,Manufacturing,29285,38347,16,79330,1,—M—
+"McDonald, Debra",NORTH,Manufacturing,29903,38355,16,87690,2,D——
+"Stokes, Jonathan",WEST,Manufacturing,25983,38366,16,92430,3,DMR
+"Shannon, Kevin",TAFT,Manufacturing,27262,38453,16,103710,1,—M—
+"Hanson, Dennis",WATSON,Manufacturing,29843,38482,16,46810,5,—M—
+"Bradford, Raymond",NORTH,Manufacturing,26064,38584,15,118460,5,DM—
+"Fernandez, Marie",WEST,Manufacturing,28893,38590,15,73190,5,D—R
+"Mullins, Angela",MAIN,Manufacturing,28236,38648,15,53250,2,DMR
+"Carr, Susan",MAIN,Manufacturing,26984,38661,15,99160,5,D——
+"Garza, Anthony",SOUTH,Manufacturing,26717,38736,15,43840,4,D—R
+"Cox, Stephanie",MAIN,Manufacturing,25747,38753,15,116480,5,—M—
+"Cochran, Andrea",WEST,Manufacturing,29937,38774,15,29910,2,DM—
+"Pace, Joseph",TAFT,Manufacturing,26740,38850,15,107450,2,—M—
+"Jenkins, Scott",MAIN,Manufacturing,29863,38925,14,80960,4,DMR
+"Thomas, Shannon",NORTH,Manufacturing,31128,38970,14,,1,———
+"Wilcox, Robert",NORTH,Manufacturing,25907,38984,14,49840,2,—M—
+"Jennings, Gary",SOUTH,Manufacturing,29869,39065,14,52880,3,—MR
+"Mathis, Shari",NORTH,Manufacturing,29923,39083,14,47280,2,—M—
+"Barnes, Grant",WEST,Manufacturing,29150,39096,14,88810,3,———
+"McCullough, Scott",MAIN,Manufacturing,28037,39187,14,100570,4,——R
+"Sexton, John",WEST,Manufacturing,28805,39350,13,31220,1,DMR
+"Conley, Mark",NORTH,Manufacturing,28184,39359,13,51310,2,DM—
+"Sweeney, Barbara",NORTH,Manufacturing,26243,39720,12,87130,5,DM—
+"Mercado, David",SOUTH,Manufacturing,27952,39881,12,33410,4,DM—
+"Huff, Erik",MAIN,Manufacturing,30996,39983,12,82830,3,—MR
+"Beck, Craig",NORTH,Manufacturing,28104,40046,11,38240,3,DMR
+"Noble, Michael",MAIN,Manufacturing,28044,40088,11,84650,1,——R
+"Robles, Charles",MAIN,Manufacturing,31993,40161,11,91190,3,—MR
+"Medina, Warren",NORTH,Manufacturing,30640,40518,10,71580,5,DM—
+"Wallace, Timothy",WATSON,Manufacturing,30495,40588,10,40810,5,D——
+"Calhoun, Dac Vinh",MAIN,Manufacturing,30805,40595,10,99230,3,———
+"Townsend, Jerry",WEST,Manufacturing,31747,40798,9,62490,2,D—R
+"Hood, Renee",WATSON,Manufacturing,29218,40973,9,93400,1,DM—
+"Meyer, Charles",NORTH,Manufacturing,31620,41029,9,115840,1,—MR
+"Black, Cliff",SOUTH,Manufacturing,29537,41029,9,54200,3,——R
+"Booker, Judith",NORTH,Manufacturing,33137,41316,8,80600,5,D——
+"Booker, Judith",NORTH,Manufacturing,33137,41316,8,80600,5,D——
+"Johns, Chad",WEST,Manufacturing,28849,41385,8,90700,4,——R
+"Jordan, Mark",WEST,Manufacturing,32617,41461,8,101090,1,D——
+"Willis, Ralph",NORTH,Manufacturing,30664,41473,7,86750,1,—MR
+"Harvey, Michael",NORTH,Manufacturing,30159,41484,7,38830,5,——R
+"Sullivan, Robert",WATSON,Manufacturing,32877,41964,6,93760,3,——R
+"Anthony, Robert",SOUTH,Manufacturing,33764,42000,6,61010,2,——R
+"Roth, Tony",MAIN,Manufacturing,32935,42042,6,94370,5,DM—
+"Phelps, Gretchen",WATSON,Manufacturing,31908,42107,6,78430,4,D——
+"Gaines, Sheela",MAIN,Manufacturing,29711,42348,5,91500,3,DM—
+"Woods, Marcus",SOUTH,Manufacturing,34457,42624,4,103180,5,—MR
+"Lynch, Scott",WATSON,Manufacturing,31441,42827,4,45790,2,D—R
+"Hansen, Andrew",NORTH,Manufacturing,32357,42855,4,46990,5,DMR
+"Dominguez, Duane",MAIN,Manufacturing,31959,42922,4,46600,5,DMR
+"Horton, Cleatis",WEST,Manufacturing,30647,43230,3,57840,2,D—R
+"Paul, Michael",NORTH,Manufacturing,34577,43255,3,58420,1,—MR
+"Frost, Adam",MAIN,Manufacturing,34382,43286,3,62620,3,———
+"Cruz, Janene",WEST,Manufacturing,26556,36815,20,24940,4,—M—
+"Velez, Letitia",TAFT,Manufacturing,27375,37235,19,,2,———
+"Best, Lara",NORTH,Manufacturing,24890,37841,17,61100,5,—M—
+"Schultz, Norman",TAFT,Manufacturing,28107,37995,17,61570,5,DMR
+"Strong, Lisa",TAFT,Manufacturing,25073,38459,16,64460,5,—M—
+"Doyle, Leslie",MAIN,Manufacturing,28511,38829,15,28600,2,—M—
+"Abbott, James",MAIN,Manufacturing,30432,38921,14,63610,1,DMR
+"Cobb, Nicole",NORTH,Manufacturing,28106,39012,14,14610,1,—MR
+"Cohen, Bruce",NORTH,Manufacturing,25709,39074,14,22800,5,DM—
+"Walker, Mike",MAIN,Manufacturing,30023,39155,14,54930,1,—MR
+"Miranda, Elena",NORTH,Manufacturing,27960,39256,14,61660,3,—M—
+"Tate, Zachary",WEST,Manufacturing,29029,40272,11,32290,1,—M—
+"Sanders, Troy",SOUTH,Manufacturing,26233,36403,21,29490,4,D——
+"Orr, Jennifer",SOUTH,Manufacturing,26227,36817,20,40150,1,D——
+"Mitchell, Shannon",WEST,Manufacturing,29498,38142,17,29660,1,DM—
+"Hartman, Michael",WEST,Manufacturing,28908,38481,16,38510,3,DMR
+"Hunter, Lisa",NORTH,Manufacturing,27642,38634,15,11750,3,———
+"Blevins, Carey",SOUTH,Manufacturing,29687,38719,15,,4,———
+"Lawson, Erin",MAIN,Manufacturing,27448,38957,14,12440,4,D——
+"Sutton, Matthew",NORTH,Manufacturing,27434,40382,10,11740,1,—M—
+"Bradshaw, Sheryl",WEST,Manufacturing,30477,41739,7,19030,4,D—R
+"Perry, Christopher",WATSON,Manufacturing,28935,42399,5,13950,4,D——
+"Vazquez, Kenneth",MAIN,Manufacturing,32690,43226,3,37520,4,DMR
+"McKinney, Christofer",WEST,Manufacturing Admin,28360,39417,13,98340,4,D——
+"Moss, Chan",WATSON,Manufacturing Admin,31276,42944,3,81690,2,———
+"Gibson, Janet",SOUTH,Manufacturing Admin,25106,36484,21,51690,3,DMR
+"Castro, Christopher",TAFT,Manufacturing Admin,26559,40059,11,78060,5,D—R
+"Burton, Cam",NORTH,Manufacturing Admin,27760,40588,10,71110,2,DM—
+"Garcia, Karen",WEST,Manufacturing Admin,33566,41690,7,94250,4,——R
+"Garcia, Karen",WEST,Manufacturing Admin,33566,41690,7,94250,4,——R
+"Acosta, Robert",WATSON,Manufacturing Admin,31739,42965,3,35970,5,D——
+"Cain, Lon",WATSON,Operations,26477,36706,21,38280,5,DMR
+"Larsen, Lara",SOUTH,Operations,25931,37599,18,108150,5,DM—
+"Beard, Sandi",WATSON,Operations,29379,38170,17,71110,2,DM—
+"Ellis, Brenda",NORTH,Operations,25176,38334,16,84280,2,—MR
+"Bauer, Chris",MAIN,Operations,25009,38428,16,102870,5,———
+"Duran, Brian",WEST,Operations,27207,38844,15,62860,5,D—R
+"Short, Timothy",TAFT,Operations,26324,38851,15,41280,5,——R
+"Higgins, Angela",NORTH,Operations,26697,39355,13,66260,4,DM—
+"Norris, Tamara",TAFT,Operations,29624,41148,8,75930,3,DMR
+"Fitzgerald, George",MAIN,Operations,33554,41935,6,98300,3,——R
+"Wilkerson, Claudia",WEST,Operations,24059,35875,23,41260,5,—M—
+"Fowler, John",SOUTH,Operations,25454,35899,23,82820,4,———
+"Pittman, Bacardi",TAFT,Operations,24120,36059,22,30230,1,DM—
+"Davis, Tonya",NORTH,Operations,22854,36258,22,115000,3,D——
+"Bishop, Juan",NORTH,Operations,26849,36347,22,79940,4,D—R
+"Strickland, Rajean",WEST,Operations,25506,36354,22,48870,2,D—R
+"Rojas, Charles",TAFT,Operations,24473,36417,21,97590,1,D——
+"Shaw, Pat",NORTH,Operations,24375,36686,21,59640,5,———
+"Reynolds, Barbara",NORTH,Operations,25218,36719,21,114230,4,D—R
+"Richards, Richard",NORTH,Operations,24139,36829,20,86130,2,D——
+"Perez, Kim",NORTH,Operations,24724,37527,18,88330,2,——R
+"Parks, Christopher",WEST,Operations,26428,37872,17,,4,———
+"Maxwell, Jill",WEST,Operations,27122,37906,17,64420,4,D—R
+"Olsen, Ewan",TAFT,Operations,27430,37934,17,75980,4,D——
+"Wade, Kevin",NORTH,Operations,24957,38199,16,107760,4,—MR
+"Jacobs, Florianne",WEST,Operations,27577,38508,16,114620,3,DM—
+"Ford, Matt",MAIN,Operations,25173,38509,16,108390,3,—MR
+"Holloway, Christopher",NORTH,Operations,29739,38768,15,65700,1,——R
+"Burke, Michael",WATSON,Operations,29308,38949,14,60760,2,DMR
+"Jensen, Kristina",WEST,Operations,30286,39314,13,69290,4,D——
+"Barker, Heidi",WEST,Operations,27887,39592,13,64670,5,—MR
+"Cunningham, Denise",WEST,Operations,31465,41809,7,62850,4,—MR
+"Cross, Marc",WATSON,Operations,32906,42735,4,58280,4,DM—
+"Cross, Marc",WATSON,Operations,32906,42735,4,58280,4,DM—
+"Clay, William",MAIN,Operations,33913,42861,4,59740,4,D——
+"Clayton, Gregory",MAIN,Operations,32496,43013,3,100030,2,D——
+"Joseph, Christopher",MAIN,Operations,33890,43099,3,44840,4,D—R
+"Winters, Shaun",MAIN,Operations,24866,35971,23,17280,4,DMR
+"Terry, Karin",NORTH,Operations,27004,38746,15,63210,1,—M—
+"Hodge, Craig",WEST,Operations,28975,38773,15,38120,3,D——
+"Andrews, Diane",SOUTH,Operations,28853,39023,14,35360,2,DM—
+"Powers, Tia",WEST,Operations,27818,39790,12,41070,1,—MR
+"Neal, Sally",SOUTH,Operations,30465,39793,12,21000,3,—M—
+"Coleman, Randi",MAIN,Operations,26320,39818,12,62430,4,—M—
+"Dalton, Carol",NORTH,Operations,32211,41014,9,41260,5,D—R
+"Hancock, Allen",WEST,Operations,31027,41750,7,62970,5,——R
+"Hall, Jenny",WEST,Operations,33849,42523,5,50920,2,—M—
+"Kemp, Holly",MAIN,Operations,31741,43003,3,26450,3,DM—
+"Walton, Benjamin",NORTH,Operations,25810,35957,23,48630,4,D—R
+"Vasquez, Michael",NORTH,Peptide Chemistry,26498,38099,17,71530,4,——R
+"McKenzie, Michelle",TAFT,Peptide Chemistry,25832,38376,16,114140,4,——R
+"Gardner, Anthony",WEST,Peptide Chemistry,25456,38699,15,95670,2,DM—
+"Evans, Rolin",WEST,Peptide Chemistry,31033,39888,12,38990,3,—MR
+"Christian, Melissa",NORTH,Peptide Chemistry,31865,40455,10,103090,3,DMR
+"Gomez, Ed",TAFT,Peptide Chemistry,32984,42985,3,97710,2,—M—
+"Watts, Curtis",MAIN,Peptide Chemistry,32437,43024,3,99130,4,——R
+"Moore, Robert",SOUTH,Peptide Chemistry,22854,36269,22,51630,5,D——
+"Moore, Robert",SOUTH,Peptide Chemistry,22854,36269,22,51630,5,D——
+"Walter, Michael",NORTH,Peptide Chemistry,25291,36393,21,64090,5,—M—
+"Harper, Cynthia",NORTH,Peptide Chemistry,24016,36556,21,116130,1,DM—
+"Briggs, Bryan",NORTH,Peptide Chemistry,26964,37773,18,30180,5,—MR
+"Sandoval, James",MAIN,Peptide Chemistry,26886,38827,15,31050,2,—M—
+"Lloyd, John",WATSON,Peptide Chemistry,25895,39118,14,90300,5,D——
+"Hensley, William",SOUTH,Peptide Chemistry,28291,39219,14,59990,5,—MR
+"Grimes, Jeffrey",MAIN,Peptide Chemistry,30356,39550,13,94800,2,DM—
+"Sparks, Terri",SOUTH,Peptide Chemistry,33138,43185,3,82080,2,DMR
+"Guzman, Don",SOUTH,Peptide Chemistry,29689,37802,18,65220,4,DM—
+"Harrison, Jonathan",MAIN,Peptide Chemistry,27088,38613,15,27060,3,D——
+"Campbell, Michael",MAIN,Peptide Chemistry,25263,38033,17,46610,3,—MR
+"William, William",MAIN,Peptide Chemistry,29020,38736,15,28600,4,—M—
+"Ramos, Jan",WATSON,Peptide Chemistry,30308,40479,10,14580,2,D—R
+"Shelton, Donna",WEST,Pharmacokinetics,26052,37060,20,94640,2,DMR
+"Arnold, Cole",WEST,Pharmacokinetics,26994,38103,17,33160,2,DMR
+"Gilmore, Terry",MAIN,Pharmacokinetics,26814,38219,16,59160,4,DMR
+"Graves, Michael",NORTH,Pharmacokinetics,25891,37466,18,83410,1,DM—
+"Cole, Elbert",NORTH,Process Development,23599,36463,21,43100,1,———
+"Cameron, John",TAFT,Process Development,28475,37154,19,88060,2,—MR
+"Fletcher, Brian",SOUTH,Process Development,34482,42435,5,71280,3,DM—
+"Saunders, Corey",TAFT,Process Development,34698,43120,3,52060,4,DMR
+"Randall, Yvonne",TAFT,Process Development,31870,43272,3,111280,1,D——
+"Savage, John",NORTH,Process Development,23182,36109,22,81140,5,D——
+"Ray, ReAnnon",MAIN,Process Development,25577,36230,22,57530,5,———
+"Bryan, Thomas",WEST,Process Development,25278,36272,22,57010,2,—MR
+"Rivers, Douglas",WEST,Process Development,27443,36288,22,34800,1,D—R
+"Harmon, Paul",NORTH,Process Development,26742,36294,22,105300,4,—MR
+"Chen, Jaime",NORTH,Process Development,23030,36530,21,,2,———
+"Fleming, Irv",MAIN,Process Development,24315,36533,21,61920,3,DM—
+"Washington, Phillip",NORTH,Process Development,28806,36580,21,89770,1,—MR
+"Massey, Mark",MAIN,Process Development,27048,36763,20,96400,5,—M—
+"Padilla, Christopher",SOUTH,Process Development,26625,37354,19,114880,3,—M—
+"McKee, Michelle",NORTH,Process Development,26182,37389,19,117280,3,—M—
+"Bruce, Kevin",WATSON,Process Development,29503,37392,19,102750,2,——R
+"Valdez, Ann",MAIN,Process Development,24894,37553,18,34100,5,D—R
+"Prince, Robert",SOUTH,Process Development,24790,37785,18,83270,5,D—R
+"Miles, Kenneth",WEST,Process Development,24842,37991,17,57300,1,D——
+"Whitaker, Jessica",NORTH,Process Development,25626,38031,17,88740,4,—M—
+"Warner, Stephen",MAIN,Process Development,26792,38064,17,102890,4,———
+"Palmer, Terry",NORTH,Process Development,29297,38555,15,90450,5,D——
+"Blankenship, Roger",MAIN,Process Development,27974,38621,15,98380,5,D—R
+"Cooper, Lisa",MAIN,Process Development,32674,40879,9,113780,3,D—R
+"Hunt, Norman",NORTH,Process Development,32029,41459,8,62120,4,———
+"Kirk, Chris",NORTH,Process Development,31036,41568,7,36380,2,——R
+"Malone, Daniel",NORTH,Process Development,32048,42056,6,67310,4,———
+"Gutierrez, Regina",WEST,Process Development,33567,42309,5,106760,1,DM—
+"Ayers, Douglas",WATSON,Process Development,29912,42330,5,105720,2,D—R
+"Gallagher, Johnson",TAFT,Process Development,33650,43022,3,88230,4,D—R
+"Stafford, Rhonda",MAIN,Process Development,24200,36154,22,46260,4,DM—
+"Fisher, Maria",TAFT,Process Development,27304,37269,19,17730,1,DM—
+"Leach, Jingwen",NORTH,Process Development,29836,39347,13,,1,———
+"Holland, Donald",WEST,Process Development,29888,40122,11,44630,5,D——
+"Henderson, Anthony",TAFT,Process Development,33961,41951,6,63040,3,—MR
+"Murray, Rebecca",WATSON,Process Development,35225,43045,3,22340,1,———
+"Wilson, Jessica",MAIN,Process Development,26621,38981,14,52490,1,—MR
+"Golden, Christine",MAIN,Process Development,29617,40363,11,28580,2,D—R
+"Schwartz, Joseph",NORTH,Process Development,27495,40796,9,44240,4,—M—
+"Boyer, John",WEST,Process Development,32463,43055,3,19870,5,D—R
+"Vincent, Guy",MAIN,Process Development,35405,43104,3,12120,3,DM—
+"Hoffman, Brian D",TAFT,Professional Training Group,26612,35938,23,64770,3,——R
+"Bell, David",MAIN,Professional Training Group,24461,35765,23,43030,5,DM—
+"Ashley, Michael",WATSON,Professional Training Group,22934,35831,23,56910,2,——R
+"Moran, Carol",NORTH,Professional Training Group,25153,35838,23,54040,3,D——
+"Little, Steve",NORTH,Professional Training Group,23330,35898,23,94680,1,—MR
+"Bean, Deborah",NORTH,Professional Training Group,25000,35932,23,116090,4,—MR
+"Lester, Sherri",MAIN,Professional Training Group,25197,35972,23,46620,3,DMR
+"Santiago, Michael",MAIN,Professional Training Group,25281,36092,22,91610,5,———
+"Simmons, Robert",MAIN,Professional Training Group,25207,36112,22,102590,3,DMR
+"Allen, Thomas",WATSON,Professional Training Group,26227,36165,22,58820,2,——R
+"Blake, Thomas",MAIN,Professional Training Group,27846,36188,22,107620,5,D—R
+"Alvarez, Steven",WEST,Professional Training Group,27209,36240,22,58900,5,DMR
+"Flowers, Kathleen",NORTH,Professional Training Group,27157,35764,23,32760,1,DMR
+"Stephenson, Matthew",WEST,Professional Training Group,23403,35812,23,52300,5,D——
+"Hatfield, Carl",NORTH,Professional Training Group,25204,36001,22,21140,3,——R
+"Rodriguez, Scott",NORTH,Professional Training Group,22911,35810,23,43870,4,——R
+"Pearson, Cassy",WEST,Project & Contract Services,25711,35819,23,30390,4,DMR
+"Stevens, Andrew",MAIN,Project & Contract Services,24571,35886,23,77420,4,—M—
+"York, Steven",WEST,Project & Contract Services,23053,36290,22,62820,3,———
+"Edwards, Phillip",WEST,Project & Contract Services,28433,36310,22,79930,2,—M—
+"Holt, Robert",MAIN,Project & Contract Services,28117,36601,21,59030,2,——R
+"O'Connor, Kent",MAIN,Project & Contract Services,25713,37130,19,74780,1,DMR
+"Mills, Melissa",NORTH,Project & Contract Services,29043,37310,19,113490,2,D—R
+"Lindsey, Deborah",MAIN,Project & Contract Services,24855,37378,19,43720,2,D—R
+"Lee, Charles",SOUTH,Project & Contract Services,29084,37567,18,101470,5,———
+"Johnson, Mary Jo",NORTH,Project & Contract Services,24483,37798,18,,1,———
+"Hickman, John",NORTH,Project & Contract Services,29613,37953,17,79290,2,——R
+"Thornton, Charles",WEST,Project & Contract Services,26268,38193,16,65380,4,D—R
+"Goodman, Kuyler",TAFT,Project & Contract Services,26187,38351,16,47820,2,———
+"Phillips, Liesl",WEST,Project & Contract Services,26381,38738,15,62730,1,—M—
+"Lane, Brandyn",MAIN,Project & Contract Services,30755,38949,14,76550,5,D——
+"Mann, Lowell",WATSON,Project & Contract Services,26119,39027,14,94120,5,——R
+"Velasquez, Clint",NORTH,Project & Contract Services,27794,39439,13,118320,4,D——
+"Parsons, Phillip",MAIN,Project & Contract Services,31142,40056,11,79290,3,——R
+"Silva, Stephen",NORTH,Project & Contract Services,30298,40178,11,81290,3,——R
+"Bryant, Douglas",MAIN,Project & Contract Services,32184,43056,3,52210,5,—M—
+"Carroll, Lesa",WEST,Project & Contract Services,34954,43062,3,76140,4,—M—
+"Brooks, Richard",MAIN,Project & Contract Services,24890,35750,23,63470,2,——R
+"Hubbard, Sandra",NORTH,Project & Contract Services,26840,35780,23,60870,4,——R
+"Boone, Eric",MAIN,Project & Contract Services,23240,36013,22,31800,4,DM—
+"Rodgers, Daniel",MAIN,Project & Contract Services,22865,36112,22,102620,1,——R
+"Hammond, Robert",MAIN,Project & Contract Services,26796,36162,22,71940,5,—MR
+"Howell, Douglas",MAIN,Project & Contract Services,22747,36178,22,104810,4,DM—
+"Bond, John",NORTH,Project & Contract Services,23599,36225,22,94620,4,D——
+"Hart, Richard",MAIN,Project & Contract Services,26496,36713,21,30780,4,—MR
+"Keith, Thomas",NORTH,Project & Contract Services,24318,36801,20,83740,3,DMR
+"Lowe, Michelle",MAIN,Project & Contract Services,26421,36821,20,91630,2,D——
+"French, Robert",MAIN,Project & Contract Services,28433,36874,20,82750,2,——R
+"Welch, Michael",SOUTH,Project & Contract Services,27403,37345,19,117240,2,—MR
+"Salazar, Ruben",WEST,Project & Contract Services,27772,37641,18,66750,4,——R
+"Quinn, Cinnamon",WEST,Project & Contract Services,27973,37746,18,80720,2,——R
+"Rich, Brent",WEST,Project & Contract Services,24578,37803,18,39280,2,DM—
+"Alvarado, Sonia",NORTH,Project & Contract Services,28311,37821,17,95880,3,—MR
+"Rowe, Ken",MAIN,Project & Contract Services,28344,37871,17,62490,2,D—R
+"Salinas, Jon",WEST,Project & Contract Services,25989,37938,17,95960,5,D—R
+"Bridges, Jeff",NORTH,Project & Contract Services,25950,38180,17,83520,1,DMR
+"Dixon, Richard",NORTH,Project & Contract Services,27739,38268,16,44960,2,—MR
+"Delgado, Dale",NORTH,Project & Contract Services,26525,38345,16,32130,4,DMR
+"Reid, Elizabeth",WEST,Project & Contract Services,25548,38473,16,30190,3,—M—
+"Flores, Angela",TAFT,Project & Contract Services,29700,38570,15,97340,4,——R
+"Benson, Troy",NORTH,Project & Contract Services,30463,38610,15,81070,4,D—R
+"Kramer, Faye",MAIN,Project & Contract Services,28067,38642,15,48690,1,——R
+"Kramer, Faye",MAIN,Project & Contract Services,28067,38642,15,48690,1,——R
+"Pacheco, Therese",MAIN,Project & Contract Services,30641,38740,15,72050,4,DM—
+"Richardson, Deborah",TAFT,Project & Contract Services,27285,38788,15,59400,4,D—R
+"Carpenter, Ronald",MAIN,Project & Contract Services,30980,39188,14,82370,4,——R
+"Gordon, Diane",MAIN,Project & Contract Services,27178,39325,13,63800,1,DM—
+"Blackwell, Brandon",MAIN,Project & Contract Services,27352,39790,12,38450,1,DM—
+"Charles, Jeffrey",NORTH,Project & Contract Services,31944,40220,11,59530,2,D——
+"Davenport, Troy",NORTH,Project & Contract Services,28418,40353,11,31100,3,———
+"Brock, Ensley",SOUTH,Project & Contract Services,32557,40500,10,101520,2,DM—
+"Conway, Brett",WATSON,Project & Contract Services,32618,41075,9,80960,2,—MR
+"Lang, Dana",WATSON,Project & Contract Services,28021,41442,8,82750,3,—MR
+"Patton, Corey",MAIN,Project & Contract Services,31479,41699,7,86960,5,D——
+"Foley, Peter",WATSON,Project & Contract Services,32533,41869,6,97460,2,—M—
+"Wells, Carlos",NORTH,Project & Contract Services,32757,42014,6,55470,5,———
+"McLean, Richard",NORTH,Project & Contract Services,30671,42098,6,58940,1,DMR
+"Day, David",NORTH,Project & Contract Services,32593,42516,5,84900,5,———
+"Gallegos, Rick",WEST,Project & Contract Services,33004,42551,5,32720,3,—M—
+"Copeland, Roger",MAIN,Project & Contract Services,30962,42789,4,71530,4,———
+"Barrett, John",NORTH,Project & Contract Services,33632,43090,3,78080,4,DMR
+"Buckel, Patricia",NORTH,Project & Contract Services,30731,43129,3,83430,1,———
+"Webb, Jim",MAIN,Project & Contract Services,30088,43276,3,114180,1,DM—
+"Goodwin, April",WEST,Project & Contract Services,26348,36323,22,61220,3,DM—
+"Patel, Donald",WEST,Project & Contract Services,23961,37445,19,14120,4,D—R
+"Ortega, Jeffrey",SOUTH,Project & Contract Services,26634,38478,16,41190,2,——R
+"Carson, Anthony",NORTH,Project & Contract Services,26988,38736,15,60390,5,———
+"Hudson, Lorna",SOUTH,Project & Contract Services,29325,38869,15,29670,4,D—R
+"Aguilar, Kevin",MAIN,Project & Contract Services,27085,39901,12,16560,4,D——
+"Solis, Daniel",NORTH,Project & Contract Services,27921,40825,9,43430,2,——R
+"Wagner, Lynne",WATSON,Project & Contract Services,30040,41375,8,14030,3,——R
+"Newton, Leigh",SOUTH,Project & Contract Services,31124,42380,5,60150,1,DM—
+"Newton, Leigh",SOUTH,Project & Contract Services,31124,42380,5,60150,1,DM—
+"Castillo, Sheri",MAIN,Project & Contract Services,31606,42818,4,33320,5,———
+"Baldwin, Ray",TAFT,Project & Contract Services,32118,42906,4,64280,3,——R
+"Booth, Raquel",WATSON,Project & Contract Services,30266,42945,3,15590,1,DM—
+"Daniels, Janet",WEST,Project & Contract Services,29872,43073,3,65150,5,——R
+"Lopez, Stephen",WEST,Project & Contract Services,25546,38598,15,18920,5,——R
+"Adkins, Michael",NORTH,Project & Contract Services,30231,38680,15,22030,3,DM—
+"Farmer, Suzanne",NORTH,Project & Contract Services,28527,38992,14,48860,4,DMR
+"Molina, Michael",MAIN,Project & Contract Services,26928,39032,14,47590,5,—MR
+"Pope, Duane",TAFT,QA,27313,35934,23,118070,2,———
+"Hull, Jeanne",MAIN,QA,23240,36073,22,61580,2,DMR
+"Morse, Michael",NORTH,Quality Assurance,23601,36566,21,73510,2,D—R
+"Baxter, Teresa",MAIN,QA,29162,38458,16,113650,4,D—R
+"Rice, Diane",WEST,Quality Assurance,29327,38722,15,77950,4,D——
+"Knox, Lori",NORTH,Quality Assurance,29399,38866,15,70370,5,D——
+"Rivera, Timothy",MAIN,Quality Assurance,30772,39058,14,80260,4,———
+"Hill, Robin",NORTH,QA,27557,39131,14,72390,4,D——
+"Hill, Robin",NORTH,QA,27557,39131,14,72390,4,D——
+"Carlson, Jeremy",MAIN,Quality Assurance,30643,39294,13,,3,———
+"Gibbs, Debra",TAFT,Quality Assurance,28151,39734,12,61750,2,DMR
+"Hogan, Daniel",TAFT,Quality Assurance,31223,40679,10,85260,1,D—R
+"Myers, Marc",NORTH,Quality Assurance,28245,41445,8,113430,2,DM—
+"Adams, David",NORTH,QA,32244,42372,5,57180,5,—MR
+"Burns, Fiona",MAIN,Quality Assurance,30066,43002,3,28490,3,—M—
+"Woodard, Charles",NORTH,QA,24794,35874,23,71150,5,—MR
+"Leon, Emily",NORTH,Quality Assurance,25925,35921,23,32790,1,DMR
+"Colon, Donnie",TAFT,Quality Assurance,22914,36106,22,89650,4,DMR
+"Fields, Cathy",WATSON,QA,24512,36200,22,83230,3,——R
+"Bailey, Victor",NORTH,Quality Assurance,25617,36256,22,72380,1,—MR
+"Dorsey, Matthew",NORTH,QA,24534,36337,22,86550,3,———
+"Mueller, Philip",NORTH,Quality Assurance,27388,36363,21,90380,4,DM—
+"Zimmerman, Julian",MAIN,Quality Assurance,26905,36504,21,113840,1,DM—
+"Greene, Alexander",WEST,QA,24895,36662,21,71640,3,———
+"Chapman, Jessica",TAFT,QA,23413,36673,21,59550,2,D——
+"Preston, Chris",MAIN,Quality Assurance,26045,36680,21,88210,2,DMR
+"McClain, Steven",NORTH,Quality Assurance,28832,36812,20,71540,4,———
+"Pierce, Karen",MAIN,Quality Assurance,26821,36937,20,64010,2,DMR
+"Marsh, Cynthia",MAIN,Quality Assurance,25648,37406,19,51480,5,DMR
+"Williams, Scott",NORTH,QA,25170,37452,19,109160,3,DM—
+"Todd, Steven",MAIN,Quality Assurance,26917,38008,17,83200,1,DM—
+"Norton, Bruce",MAIN,Quality Assurance,29300,38025,17,87700,3,DM—
+"Wong, Dennis",NORTH,Quality Assurance,25440,38060,17,45320,3,DMR
+"Perkins, Donald",WEST,QA,27031,38103,17,83110,1,—MR
+"Walters, Ann",NORTH,QA,29992,38149,17,103900,4,DM—
+"Tucker, James",NORTH,Quality Assurance,29596,38221,16,49860,5,—M—
+"Rios, Fredrick",SOUTH,Quality Assurance,28343,38367,16,42400,1,D——
+"Allison, Timothy",NORTH,QA,26648,38548,16,92770,3,D——
+"Villarreal, Stephen",MAIN,Quality Assurance,30544,38664,15,,1,———
+"Richard, Karen",WEST,Quality Assurance,26392,38942,14,51480,3,D——
+"Sawyer, Catherine",NORTH,Quality Assurance,26953,38964,14,91340,4,D—R
+"Dawson, Jonathan",WEST,QA,28406,39012,14,88470,1,DM—
+"Elliott, Anthony",NORTH,Quality Assurance,28765,39059,14,60560,5,—MR
+"Trujillo, Shawn",WATSON,QA,27945,39166,14,63690,3,———
+"Decker, Amy",NORTH,Quality Assurance,28242,39178,14,38620,4,—MR
+"Kennedy, Kimberly",WATSON,Quality Assurance,32075,40277,11,108890,5,——R
+"Lowery, Charles",SOUTH,Quality Assurance,28266,40445,10,38560,5,—MR
+"Carrillo, Robert",WEST,Quality Assurance,29467,40889,9,42120,5,—MR
+"Morrison, Julie",SOUTH,Quality Assurance,32649,41005,9,110500,3,D——
+"Reyes, Mary",NORTH,QA,32088,41554,7,97100,3,———
+"Rodriquez, Denise",WEST,Quality Assurance,29552,41805,7,,5,———
+"Bradley, David",NORTH,Quality Assurance,33929,42397,5,38720,5,D—R
+"Nelson, Shira",WEST,Quality Assurance,29270,42467,5,95120,2,D——
+"Roberts, Jackie",SOUTH,QA,29934,42730,4,30610,5,—MR
+"Martinez, Kathleen",NORTH,Quality Assurance,30503,43233,3,105940,3,D——
+"Nunez, Benning",WATSON,Quality Assurance,28779,36542,21,34170,5,—MR
+"Pitts, Dana",MAIN,Quality Assurance,25652,38340,16,56420,2,———
+"Hobbs, Scott",SOUTH,Quality Assurance,27462,38494,16,52180,5,DM—
+"Warren, Jean",MAIN,QA,27401,38848,15,46170,2,DMR
+"Norman, Rita",NORTH,Quality Assurance,31332,39075,14,62500,1,—MR
+"Snyder, Duane",MAIN,Quality Assurance,29874,39183,14,27710,4,DMR
+"Pena, Erik",WEST,Quality Assurance,31819,40427,10,37650,4,—MR
+"Howard, Lisa",SOUTH,QA,27655,40467,10,64340,1,—MR
+"Howard, Lisa",SOUTH,QA,27655,40467,10,64340,1,—MR
+"Romero, Randy",WEST,Quality Assurance,26967,35908,23,40220,2,—M—
+"Dyer, Carrie",MAIN,Quality Assurance,24339,36832,20,34960,5,D——
+"Newman, Aria",MAIN,Quality Assurance,25740,36997,20,48560,4,D——
+"Blackburn, Kathryn",WATSON,QA,28050,37686,18,31270,4,DM—
+"Christensen, Jill",MAIN,Quality Assurance,29310,38054,17,44230,4,DMR
+"Wise, Ted",MAIN,Quality Assurance,26788,38513,16,16940,5,——R
+"Knight, Denise",WEST,QA,29994,38521,16,23640,5,D—R
+"Barnett, Brenda",WATSON,Quality Assurance,29563,39209,14,20530,4,D——
+"Morrow, Richard",NORTH,Quality Control,23817,35796,23,30810,4,D——
+"Walls, Brian",MAIN,Quality Control,25879,35845,23,83970,5,—M—
+"Mack, Barry",NORTH,Quality Control,26770,36214,22,75900,1,DMR
+"Curtis, Patrick",WEST,Quality Control,23058,36441,21,78050,4,D——
+"McCoy, Preston",WEST,Quality Control,28191,36472,21,92800,3,D——
+"Spencer, Boyd",NORTH,Quality Control,24399,36626,21,92600,2,———
+"Yates, Doug",MAIN,Quality Control,24007,36629,21,83540,5,DMR
+"Matthews, Diane",NORTH,Quality Control,26693,36778,20,99730,3,—M—
+"Merritt, Kevin",SOUTH,Quality Control,27470,36787,20,103740,1,DM—
+"Long, Gary",SOUTH,Quality Control,28260,36811,20,46520,3,—M—
+"Wolf, Debbie",NORTH,QC,29499,37186,19,59540,1,———
+"Durham, Troy",MAIN,Quality Control,27648,37375,19,,3,———
+"Hurst, Thomas",SOUTH,Quality Control,27369,37932,17,55140,5,———
+"Pruitt, Randy",SOUTH,Quality Control,27351,37990,17,115940,2,—M—
+"Parrish, Debra",NORTH,Quality Control,28336,38478,16,59440,3,DMR
+"Nixon, Randy",WEST,QC,29601,38845,15,76890,2,———
+"Nixon, Randy",WEST,QC,29601,38845,15,76890,2,———
+"Small, Athanasios",WATSON,Quality Control,26436,39717,12,101820,5,D—R
+"Lambert, Jody",MAIN,Quality Control,28191,39751,12,37320,5,DMR
+"Stewart, Elizabeth",WATSON,Quality Control,27973,39793,12,33700,3,DM—
+"Webster, David",WATSON,QC,27514,40105,11,64800,4,DMR
+"Collier, Dean",SOUTH,Quality Control,32450,41090,9,43400,3,DMR
+"Bullock, Greg",WEST,Quality Control,29336,42380,5,113570,5,——R
+"Brewer, Kent",NORTH,Quality Control,33135,42887,4,106560,3,—MR
+"Schroeder, Bennet",WATSON,Quality Control,34621,42986,3,62410,1,D—R
+"Avila, Jody",NORTH,Quality Control,35480,43175,3,61470,4,———
+"Marks, LaReina",NORTH,Quality Control,32527,43215,3,73270,3,—MR
+"Crawford, Ronald",TAFT,Quality Control,33169,43290,3,56750,4,DMR
+"Chase, Troy",MAIN,QC,25863,35931,23,31940,5,——R
+"Hawkins, Douglas",NORTH,Quality Control,26686,36333,22,61450,4,D—R
+"Craig, Alan",MAIN,Quality Control,23667,36458,21,82870,3,D—R
+"Trevino, Gary",WATSON,Quality Control,25305,36573,21,42450,3,——R
+"Dudley, James",MAIN,Quality Control,27993,36609,21,78530,3,D—R
+"Chambers, Richard",SOUTH,QC,25918,36630,21,61260,2,—MR
+"Reese, Marc",NORTH,Quality Control,25982,36938,20,115130,1,D——
+"Barr, Jennifer",MAIN,Quality Control,25499,37077,20,97480,2,—MR
+"Hayes, Edward",MAIN,Quality Control,23933,37322,19,,5,———
+"Cook, Mark",NORTH,Quality Control,28770,37704,18,85510,5,——R
+"Erickson, Ricky",NORTH,QC,24444,37789,18,44340,5,——R
+"Livingston, Lynette",NORTH,Quality Control,29858,37928,17,77050,5,——R
+"Douglas, Kenneth",TAFT,Quality Control,28027,37959,17,41830,4,D—R
+"Ruiz, Randall",MAIN,QC,24881,38016,17,35810,5,—M—
+"Weaver, Eric",NORTH,Quality Control,28906,38279,16,54620,2,D—R
+"Fischer, David",WATSON,QC,27362,38428,16,113940,4,DMR
+"Fischer, David",WATSON,QC,27362,38428,16,113940,4,DMR
+"Harrell, Cristin",NORTH,Quality Control,27545,38677,15,85100,5,D—R
+"McBride, Grazyna",TAFT,Quality Control,25901,38732,15,63900,5,DMR
+"Dean, Gayla",SOUTH,Quality Control,30348,38895,15,102540,3,———
+"Shields, Robert",MAIN,Quality Control,29344,38982,14,,2,———
+"Berry, Jacklyn",NORTH,Quality Control,31454,39201,14,46810,1,—MR
+"Anderson, Teason",NORTH,QC,30731,39271,14,95000,4,—M—
+"Lawrence, Ronald",NORTH,Quality Control,31020,39324,13,86220,5,D——
+"Hardy, Svetlana",TAFT,Quality Control,28092,39495,13,62870,3,DM—
+"Martin, Terry",NORTH,Quality Control,26190,39608,13,65910,1,—M—
+"Harrington, Aron",NORTH,Quality Control,28983,39619,13,83240,4,—MR
+"Vargas, Bryant",TAFT,QC,27371,39661,12,103900,2,DM—
+"Page, Lisa",TAFT,Quality Control,32088,40147,11,79600,2,D——
+"Barton, Barry",NORTH,Quality Control,27804,40462,10,63370,3,DM—
+"Ross, Janice",NORTH,Quality Control,28190,40980,9,63730,4,—MR
+"Marquez, Thomas",WEST,Quality Control,29384,40999,9,107370,2,DM—
+"Schmidt, Michael",TAFT,Quality Control,33025,41278,8,58780,2,DMR
+"Harding, Erin",SOUTH,Quality Control,31473,41823,7,33910,2,DM—
+"Atkins, Kevin",NORTH,QC,30002,41935,6,32970,3,—M—
+"Rose, Mark",SOUTH,Quality Control,30154,42093,6,90900,2,—MR
+"Pugh, Lawrence",WEST,Quality Control,32307,42254,5,104780,5,—MR
+"Camacho, Stephanie",SOUTH,Quality Control,31019,42331,5,30120,5,D——
+"Shaffer, Nobuko",NORTH,Quality Control,30537,42380,5,108730,5,———
+"Torres, Bruce",MAIN,QC,34873,42670,4,46190,3,DMR
+"Waters, Alfred",WATSON,Quality Control,31850,43188,3,93360,1,——R
+"Oliver, Francisco",NORTH,Quality Control,30823,43220,3,61230,5,DM—
+"O'Brien, Madelyn",MAIN,Quality Control,30521,43289,3,114360,3,—MR
+"Frank, William",MAIN,Quality Control,30885,43332,2,30400,4,DM—
+"Poole, Tracy",MAIN,QC,32457,43332,2,53140,5,—MR
+"Dunn, Matthew",NORTH,Quality Control,25839,36043,22,17760,2,—MR
+"Juarez, Neill",NORTH,Quality Control,24147,36657,21,26310,1,DM—
+"Moreno, Christopher",WATSON,Quality Control,24965,37949,17,50300,2,D—R
+"Roy, Margarita",NORTH,Quality Control,25288,38118,17,49710,4,DM—
+"Schneider, Gay",WEST,Quality Control,26246,38170,17,18070,5,DM—
+"Robertson, Nathan",SOUTH,Quality Control,28759,38705,15,60860,5,—M—
+"Daniel, Robert",TAFT,Quality Control,30121,39017,14,26170,2,—MR
+"Kelley, Nancy",NORTH,QC,31186,39114,14,34560,5,D—R
+"Pratt, Erik",NORTH,QC,27412,39570,13,,5,———
+"Chavez, Thomas",SOUTH,Quality Control,33438,42187,6,64790,5,D——
+"Chavez, Thomas",SOUTH,Quality Control,33438,42187,6,64790,5,D——
+"Gross, Davin",NORTH,Quality Control,28010,37477,18,35570,4,DMR
+"Carter, Allan",NORTH,QC,25974,37899,17,44550,3,D——
+"Tyler, Javier",NORTH,Quality Control,29985,38228,16,37970,3,DMR
+"Hines, Herb",WATSON,Quality Control,29745,39110,14,42950,2,D——
+"Price, Diana",WEST,Quality Control,29466,41298,8,,2,———
+"Santos, Garret",WEST,Research Center,27387,36039,22,112870,4,———
+"Lewis, Frederick",MAIN,Research Center,33181,43371,2,87290,4,—MR
+"Owens, Dwight",MAIN,Research Center,27432,39643,13,84040,5,DM—
+"Glover, Eugene",WEST,Research Center,29496,39725,12,53700,5,D——
+"Heath, Deborah",WATSON,Research Center,31905,40336,11,56500,5,—M—
+"Bennett, Chris",NORTH,Research/Development,23168,36655,21,80200,2,———
+"Peters, Robert",NORTH,Research/Development,27914,37177,19,85430,5,D—R
+"Dodson, David",TAFT,Research/Development,33852,43036,3,61620,1,DMR
+"Fox, Ellen",WATSON,Research/Development,28187,39209,14,41250,2,D——
+"Francis, Todd",WATSON,Research/Development,31160,43195,3,25140,1,—MR
